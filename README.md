@@ -8,4 +8,4 @@ A Software Engineer building on the web with JavaScript, TypeScript, React and i
 - 👀 I'm interested in Web Performance, Security and Tooling, System Design/Architecture and Testing
 - 💬 Ask me about React, TypeScript and Linear Algebra
 
- [View Resume](https://docs.google.com/document/d/1aRaYfqGu94kS1Z2_PCHabDQNbVhFZbiPQyHx2Ae8okI/edit?usp=sharing) 🚀
+ [View Resume](https://drive.google.com/file/d/10TzBBGwdSAfIqvFpNnA9rNuTc45wiWRn/view?usp=sharing) 🚀
